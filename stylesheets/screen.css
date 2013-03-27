@@ -1,0 +1,39 @@
+.nav ul li
+{
+   display :inline;
+   list-style-type:none;
+   font-size:1.5em;  
+}
+.nav ul{
+align: center;
+}
+.nav ul a{
+text-decoration: none;
+color: white;
+}
+.nav ul a:hover{
+font-style: italic;
+}
+.nav{
+background-color: grey;
+}
+
+#site-title a {
+text-decoration: none;
+color: grey;    
+}
+#site-title {
+margin:0 auto;
+width:12em;
+}
+footer{
+background-color: grey;
+padding:0.8em;
+}
+footer a{
+text-decoration: none;
+color: green;
+}
+#page{
+line-height: 1.7;
+}

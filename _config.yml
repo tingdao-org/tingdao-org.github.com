@@ -1,0 +1,11 @@
+markdown: redcarpet
+redcarpet:
+  extensions: [fenced_code_blocks, autolink, tables,  hard_wrap, with_toc_data, strikethrough, lax_spacing, superscript]
+
+permalink: /title/
+exclude: ["README.md", "Rakefile"]
+auto: true
+pygments: false
+future: true
+  
+copyright: "© 2012 听稻. Some rights reserved."
